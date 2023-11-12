@@ -1,8 +1,6 @@
-### Heyoooo
+### Heyoo
 
-__-__ 🎄🎁✨ Doing something something
-
-> Cause the times, they are a-changin
+__-__ 🎄🎁✨ Working on distributed systems.
 
 <!--
 **rytsh/rytsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
